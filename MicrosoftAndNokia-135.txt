@@ -1,0 +1,135 @@
+Tac	35235406	Nokia	Nokia 106	Feature Phone
+Tac	35919505	Nokia	Nokia 106	Feature Phone
+Tac	35958305	Nokia	Nokia 106	Feature Phone
+Tac	35306506	Nokia	Nokia 106.3	Feature Phone
+Tac	35426306	Nokia	Nokia 106.3	Feature Phone
+Tac	35646306	Nokia	Nokia 106.3	Feature Phone
+Tac	35862206	Nokia	Nokia 106.3	Feature Phone
+Tac	35572706	Nokia	Nokia 107	Feature Phone
+Tac	35572906	Nokia	Nokia 107	Feature Phone
+Tac	35573806	Nokia	Nokia 107	Feature Phone
+Tac	35573906	Nokia	Nokia 107	Feature Phone
+Tac	35726205	Nokia	Nokia 107	Feature Phone
+Tac	35898205	Nokia	Nokia 107	Feature Phone
+Tac	35921005	Nokia	Nokia 107	Feature Phone
+Tac	35921105	Nokia	Nokia 107	Feature Phone
+Tac	35957805	Nokia	Nokia 107	Feature Phone
+Tac	35958705	Nokia	Nokia 107	Feature Phone
+Tac	35960305	Nokia	Nokia 107	Feature Phone
+Tac	35960405	Nokia	Nokia 107	Feature Phone
+Tac	35960505	Nokia	Nokia 107	Feature Phone
+Tac	35995405	Nokia	Nokia 107	Feature Phone
+Tac	35285505	Nokia	Nokia 113	Feature Phone
+Tac	35459405	Nokia	Nokia 113	Feature Phone
+Tac	35519805	Nokia	Nokia 113	Feature Phone
+Tac	35593705	Nokia	Nokia 113	Feature Phone
+Tac	35812105	Nokia	Nokia 113	Feature Phone
+Tac	35996305	Nokia	Nokia 113	Feature Phone
+Tac	35364406	Nokia	Nokia 114	Feature Phone
+Tac	35364506	Nokia	Nokia 114	Feature Phone
+Tac	35520305	Nokia	Nokia 114	Feature Phone
+Tac	35522105	Nokia	Nokia 114	Feature Phone
+Tac	35549405	Nokia	Nokia 114	Feature Phone
+Tac	35549505	Nokia	Nokia 114	Feature Phone
+Tac	35728405	Nokia	Nokia 114	Feature Phone
+Tac	35814805	Nokia	Nokia 114	Feature Phone
+Tac	35895105	Nokia	Nokia 114	Feature Phone
+Tac	35896105	Nokia	Nokia 114	Feature Phone
+Tac	35921405	Nokia	Nokia 114	Feature Phone
+Tac	35995805	Nokia	Nokia 114	Feature Phone
+Tac	35995905	Nokia	Nokia 114	Feature Phone
+Tac	35917905	Nokia	Nokia Lumia 1320	SmartPhone
+Tac	35173506	Nokia	Nokia Lumia 1320, Lumia 1320	SmartPhone
+Tac	35173606	Nokia	Nokia Lumia 1320, Lumia 1320	SmartPhone
+Tac	35174506	Nokia	Nokia Lumia 1320, Lumia 1320	SmartPhone
+Tac	35174906	Nokia	Nokia Lumia 1320, Lumia 1320	SmartPhone
+Tac	01396000	Nokia	Microsoft Surface 2	Tablet
+Tac	01406300	Nokia	Nokia 1573A	UNKNOWN
+Tac	35370005	Nokia	Nokia Asha 205.1, Asha 205	Feature Phone
+Tac	35306406	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35363406	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35811205	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35811305	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35811405	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35811505	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35811605	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35813205	Nokia	Nokia Asha 205.1, Asha 205, Asha 2051, Asha 2052, Asha 2053, Asha 2055	Feature Phone
+Tac	35645306	Nokia	Nokia 206	Feature Phone
+Tac	35999005	Nokia	Nokia 206	Feature Phone
+Tac	35635205	Nokia	Nokia 206, Nokia 2060	Feature Phone
+Tac	35412605	Nokia	Nokia 206.1	Feature Phone
+Tac	35670205	Nokia	Nokia 206.1	Feature Phone
+Tac	35895405	Nokia	Nokia 206.1	Feature Phone
+Tac	35726905	Nokia	Nokia 207.1	Feature Phone
+Tac	35238206	Nokia	Nokia 208.1	Feature Phone
+Tac	35726605	Nokia	Nokia 208.1	Feature Phone
+Tac	35919105	Nokia	Nokia 208.1	Feature Phone
+Tac	35364306	Nokia	Nokia 208.2	Feature Phone
+Tac	35727705	Nokia	Nokia 208.2	Feature Phone
+Tac	35238306	Nokia	Nokia 208.3	Feature Phone
+Tac	35727405	Nokia	Nokia 208.3	Feature Phone
+Tac	35237706	Nokia	Nokia 208.4	Feature Phone
+Tac	35921505	Nokia	Nokia 208.4	Feature Phone
+Tac	35174806	Nokia	Nokia 208.4, Nokia 208	Feature Phone
+Tac	35959505	Nokia	Nokia Asha 210	Feature Phone
+Tac	35632505	Nokia	Nokia Asha 210.2, Asha 210	Feature Phone
+Tac	35366806	Nokia	Nokia Asha 210.3, Asha 210	Feature Phone
+Tac	35551305	Nokia	Nokia Asha 210.3, Asha 210	Feature Phone
+Tac	35632605	Nokia	Nokia Asha 210.4, Asha 210	Feature Phone
+Tac	35238406	Nokia	Nokia Asha 210.5, Asha 210	Feature Phone
+Tac	35520005	Nokia	Nokia Asha 210.5, Asha 210	Feature Phone
+Tac	35516206	Nokia	Nokia 220	Feature Phone
+Tac	35517206	Nokia	Nokia 220	Feature Phone
+Tac	35577006	Nokia	Nokia 220	Feature Phone
+Tac	35577306	Nokia	Nokia 220	Feature Phone
+Tac	35577406	Nokia	Nokia 220	Feature Phone
+Tac	35235606	Nokia	Nokia 301	Feature Phone
+Tac	35307306	Nokia	Nokia 301	Feature Phone
+Tac	35512806	Nokia	Nokia 301	Feature Phone
+Tac	35551605	Nokia	Nokia 301	Feature Phone
+Tac	35727605	Nokia	Nokia 301	Feature Phone
+Tac	35788505	Nokia	Nokia 301	Feature Phone
+Tac	35790305	Nokia	Nokia 301	Feature Phone
+Tac	35790405	Nokia	Nokia 301	Feature Phone
+Tac	35790505	Nokia	Nokia 301	Feature Phone
+Tac	35834005	Nokia	Nokia 301	Feature Phone
+Tac	35836805	Nokia	Nokia 301	Feature Phone
+Tac	35920105	Nokia	Nokia 301	Feature Phone
+Tac	35921205	Nokia	Nokia 301	Feature Phone
+Tac	35552005	Nokia	Nokia 301.1	Feature Phone
+Tac	35174406	Nokia	Nokia 301.1	Feature Phone
+Tac	35575806	Nokia	Nokia 301.1	Feature Phone
+Tac	35833805	Nokia	Nokia 301.1	Feature Phone
+Tac	35413905	Nokia	Nokia Asha 302	Feature Phone
+Tac	35919805	Nokia	Nokia Asha 501	SmartPhone
+Tac	35591605	Nokia	Nokia Asha 501.1	SmartPhone
+Tac	35833505	Nokia	Nokia Asha 501.2	SmartPhone
+Tac	35552305	Nokia	Nokia Asha 501	SmartPhone
+Tac	35899105	Nokia	Nokia Asha 503	SmartPhone
+Tac	35959305	Nokia	Nokia Asha 503	SmartPhone
+Tac	35172106	Nokia	Nokia 515	Feature Phone
+Tac	35788805	Nokia	Nokia 515	Feature Phone
+Tac	35995205	Nokia	Nokia 515	Feature Phone
+Tac	35995305	Nokia	Nokia 515	Feature Phone
+Tac	35920805	Nokia	Nokia Lumia 520	SmartPhone
+Tac	35999805	Nokia	Nokia Lumia 520	SmartPhone
+Tac	35592405	Nokia	Nokia Lumia 520T	SmartPhone
+Tac	35671605	Nokia	Nokia Lumia 520T	SmartPhone
+Tac	35670105	Nokia	Nokia Lumia 521	SmartPhone
+Tac	35282705	Nokia	Nokia 5233	SmartPhone
+Tac	35898705	Nokia	Nokia Lumia 526	SmartPhone
+Tac	35790905	Nokia	Nokia Lumia 625	SmartPhone
+Tac	35791005	Nokia	Nokia Lumia 625	SmartPhone
+Tac	35303506	Nokia	Nokia Lumia 625	SmartPhone
+Tac	35669005	Nokia	Nokia Lumia 625.1	SmartPhone
+Tac	35669105	Nokia	Nokia Lumia 625H	SmartPhone
+Tac	35835905	Nokia	Nokia Lumia 625H	SmartPhone
+Tac	35836005	Nokia	Nokia Lumia 625H	SmartPhone
+Tac	35836105	Nokia	Nokia Lumia 625H	SmartPhone
+Tac	35835405	Nokia	Nokia Lumia 1020	SmartPhone
+Tac	35671905	Nokia	Nokia Lumia 1020	SmartPhone
+Tac	35410605	Nokia	Nokia Lumia 928	SmartPhone
+Tac	35456005	Nokia	Nokia Lumia 928	SmartPhone
+Tac	35633605	Nokia	Nokia Lumia 928	SmartPhone
+Tac	35634905	Nokia	Nokia Lumia 928	SmartPhone
+Tac	35635005	Nokia	Nokia Lumia 928	SmartPhone
