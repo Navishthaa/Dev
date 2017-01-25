@@ -7,5 +7,10 @@ dnsdksndk
 qweiow
 nisha
 ewyeuweywu
+rking on the Testing branch without affecting the master again until it is merged yet again at some later date. You can run a continuous branch like this for as long as you wish, or you can delete the branch after it's merged if you don't need it anymore.
+
+It's common to have a few infinite branches for reasons you describe.
+
+In this post, you can see they use a master (for released versions only), a develop (like your tester, but everyone works off there), then other branches for features, etc. Each of those branches can go on for however long and the changes can be rolled back independently per branch back to it's latest merge point:
 
 
